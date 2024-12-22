@@ -1,0 +1,43 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenu">
+			<method name="OnNoButtonClicked"/>
+			<method name="OnYesButtonClicked"/>
+			<method name="PlayGame"/>
+		</type>
+		<type fullname="PauseMenu">
+			<method name="LoadMenu"/>
+			<method name="Pause"/>
+			<method name="Resume"/>
+		</type>
+		<type fullname="SoundEffectForMenu">
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+			<method name="PlayThisSoundEffect"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="set_volume"/>
+			<method name="set_volume"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

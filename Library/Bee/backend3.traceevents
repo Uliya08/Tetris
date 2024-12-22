@@ -1,0 +1,550 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734288883330923, "dur":93, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288883331069, "dur":28587, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288883359668, "dur":243, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288883360000, "dur":448, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288883360592, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1734288883360731, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1734288883360860, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1734288883361064, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1734288883361355, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1734288883361844, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883362120, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883362289, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883362569, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883362858, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883363068, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883363184, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883363541, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883363821, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883364879, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883365854, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883365916, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366225, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366356, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366665, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Plugins/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366816, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366873, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1734288883366952, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367039, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris.exe" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367156, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367260, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367348, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367531, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1734288883367648, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1734288883360486, "dur":7904, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288883368392, "dur":10971443, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288894339838, "dur":263, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288894340109, "dur":50, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288894340320, "dur":3362, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734288883361175, "dur":7503, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883368681, "dur":907, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883369588, "dur":824, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883370412, "dur":476, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883370889, "dur":511, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883371400, "dur":502, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883371903, "dur":868, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883372772, "dur":6501, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883379275, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1734288883379514, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883379609, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1734288883379840, "dur":608, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883380455, "dur":7934, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883388440, "dur":10382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883388390, "dur":10434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883403007, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883399925, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883403172, "dur":53220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883403103, "dur":53291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883456407, "dur":177, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883456593, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883458097, "dur":86209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883458056, "dur":86252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883544732, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883546804, "dur":59529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883546748, "dur":59586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883606390, "dur":101, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883606499, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883608388, "dur":59591, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883608356, "dur":59625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883668051, "dur":1604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883669709, "dur":15644, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883669659, "dur":15696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883685394, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883686824, "dur":45985, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883686790, "dur":46020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883732819, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883732916, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883735192, "dur":44752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883735141, "dur":44810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883779963, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883781666, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883780118, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883781881, "dur":119627, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883781817, "dur":119693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883901521, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288883901619, "dur":3043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883904816, "dur":39011, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883904667, "dur":39162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883943860, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883945183, "dur":13497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883945156, "dur":13526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883958721, "dur":1714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883960490, "dur":32449, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883960455, "dur":32486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883992980, "dur":2002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883995133, "dur":52258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288883994992, "dur":52400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884047445, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884048681, "dur":19164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884048590, "dur":19258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884067887, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734288884067963, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884069485, "dur":182964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884069460, "dur":182991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884252512, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884254230, "dur":87974, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884254124, "dur":88082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884342231, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884343387, "dur":100940, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884343361, "dur":100968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884444362, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734288884445675, "dur":9894170, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734288883360984, "dur":7425, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734288883370018, "dur":1074, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":2, "ts":1734288883371093, "dur":6539, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":2, "ts":1734288883377632, "dur":86, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":2, "ts":1734288883377719, "dur":1141, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":2, "ts":1734288883378861, "dur":55, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":2, "ts":1734288883378916, "dur":170, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":2, "ts":1734288883379086, "dur":107, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":2, "ts":1734288883368415, "dur":10827, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734288883379250, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/4110265054513261072.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1734288883379366, "dur":1235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/uliya/OneDrive/ //Tetris/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1734288883380602, "dur":3239, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734288883388439, "dur":17443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883405930, "dur":119324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883525303, "dur":63916, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883589302, "dur":33175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883622529, "dur":65615, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883688239, "dur":47818, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883736061, "dur":8853, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883744917, "dur":63889, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883808810, "dur":111150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883920018, "dur":74747, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288883994816, "dur":41484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884036455, "dur":13710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884050283, "dur":149337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884199735, "dur":66874, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884266971, "dur":31141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884298117, "dur":118301, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884416513, "dur":50568, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884467135, "dur":255334, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734288884722568, "dur":21137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\uliya\\OneDrive\\ \\\\Tetris\\Library\\PackageCache\\com.unity.burst\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":2, "ts":1734288883388384, "dur":1355323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1734288884744717, "dur":9594923, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":3, "ts":1734288883361041, "dur":7403, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883368452, "dur":1324, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883369777, "dur":453, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883370231, "dur":481, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883370712, "dur":467, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883371179, "dur":503, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883371682, "dur":894, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883372576, "dur":6682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883379271, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883379374, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883379549, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1734288883379778, "dur":151, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1734288883379978, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883380174, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883380366, "dur":8137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734288883388538, "dur":73904, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288883388504, "dur":73940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288883462491, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288883464304, "dur":655227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288883464145, "dur":655388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884119561, "dur":1956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884121618, "dur":148337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884121522, "dur":148435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884269991, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884271158, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884272546, "dur":58511, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884272484, "dur":58575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884331097, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884332547, "dur":71648, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884332519, "dur":71677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884404234, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884405309, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884406979, "dur":17979, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884406958, "dur":18002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884424990, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884426272, "dur":52694, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884426270, "dur":52698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884479005, "dur":1164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734288884480173, "dur":9859641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883361029, "dur":7392, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883368439, "dur":636, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883369076, "dur":943, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883370019, "dur":466, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883370485, "dur":542, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883371028, "dur":521, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883371549, "dur":507, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883372056, "dur":530, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883372586, "dur":6659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883379290, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883379488, "dur":146, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1734288883379635, "dur":880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1734288883380515, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883380630, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883380703, "dur":7702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883388477, "dur":12974, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883388406, "dur":13047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883402986, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883401590, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883403138, "dur":16115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883403099, "dur":16156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883419306, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883420456, "dur":32587, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883420403, "dur":32642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883453100, "dur":5324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883458496, "dur":49996, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883458427, "dur":50068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883513567, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883508566, "dur":5150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883513759, "dur":10491, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883513721, "dur":10531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883524293, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883525708, "dur":42429, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883525663, "dur":42477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883568184, "dur":199, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883568392, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883569721, "dur":46733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883569639, "dur":46817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883616494, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883618403, "dur":18306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883618355, "dur":18356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883636727, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883636814, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883638369, "dur":10219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883638295, "dur":10296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883650303, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288883648625, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883650531, "dur":56988, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883650456, "dur":57065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883707552, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883709245, "dur":52711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883709200, "dur":52758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883762208, "dur":2333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883764623, "dur":181083, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883764551, "dur":181157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883945730, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883946871, "dur":61172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288883946759, "dur":61285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884008070, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884009524, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884011113, "dur":44191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884010975, "dur":44331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884055339, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884056734, "dur":495692, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884056683, "dur":495745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884552449, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734288884552535, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734288884555226, "dur":9784591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883361070, "dur":7386, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883369071, "dur":642, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Threading.Tasks.Parallel.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883368461, "dur":1699, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883370160, "dur":479, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883370974, "dur":739, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.24f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\PEAPI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883370639, "dur":1485, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883372124, "dur":7235, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883379360, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1734288883379521, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1734288883379695, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1734288883379792, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1734288883379967, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883380056, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883380130, "dur":259, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1734288883380397, "dur":7989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883388485, "dur":50821, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883388388, "dur":50920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883439363, "dur":18104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883457517, "dur":73901, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883457471, "dur":73950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883531459, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883532927, "dur":69712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883532896, "dur":69745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883602702, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883604379, "dur":33207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883604341, "dur":33247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883637598, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883637691, "dur":1732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883639564, "dur":65079, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883639427, "dur":65219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883704739, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883706369, "dur":57019, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883706367, "dur":57024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883763430, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883763503, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883765455, "dur":71231, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883765403, "dur":71286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883836726, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883838463, "dur":20190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883838414, "dur":20241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883858692, "dur":1687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883860418, "dur":53384, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883860385, "dur":53419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883913866, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883915036, "dur":44986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883914946, "dur":45078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883960036, "dur":180, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288883960226, "dur":1288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883961543, "dur":31091, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883961518, "dur":31118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883992705, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883994542, "dur":37447, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288883994386, "dur":37605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884032022, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884033301, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884034989, "dur":77761, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884034905, "dur":77847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884112812, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884114307, "dur":130813, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884114284, "dur":130838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884245150, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884246168, "dur":66911, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884246138, "dur":66942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884313113, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884314422, "dur":18026, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884314401, "dur":18049, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884333954, "dur":217, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288884332497, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884334362, "dur":59611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884334200, "dur":59775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884394011, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884395666, "dur":41449, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884395513, "dur":41603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884437124, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734288884437196, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734288884438642, "dur":9901205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883361103, "dur":7363, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883368470, "dur":688, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883369159, "dur":901, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883370061, "dur":629, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883370691, "dur":763, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883371455, "dur":1063, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883372519, "dur":6839, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883379602, "dur":220, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1734288883379823, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris.exe" }}
+,{ "pid":12345, "tid":6, "ts":1734288883379879, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883380015, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883380211, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883380326, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883380402, "dur":7989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883388466, "dur":155944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883388392, "dur":156020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883544769, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883547081, "dur":58721, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883547039, "dur":58766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883605816, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883607596, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883605930, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883607850, "dur":44304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883607738, "dur":44418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883652190, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883653639, "dur":13550, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883653565, "dur":13626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883667234, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883669101, "dur":38380, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883669069, "dur":38414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883708770, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734288883707520, "dur":1408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883708957, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883710422, "dur":11322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883710351, "dur":11395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883721781, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883723420, "dur":7807, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883723367, "dur":7862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883731258, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883732584, "dur":7954, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883732549, "dur":7991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883740616, "dur":1143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883741785, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883743117, "dur":9443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883743048, "dur":9514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883752599, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883754222, "dur":253562, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288883754163, "dur":253623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884007814, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884009516, "dur":55427, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884009490, "dur":55455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884064978, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884066556, "dur":14386, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884066505, "dur":14439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884080965, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884081856, "dur":136639, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884081854, "dur":136644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884218537, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884221075, "dur":112014, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884221048, "dur":112043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884333129, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884334807, "dur":60096, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884334770, "dur":60135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884394930, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884396289, "dur":18593, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884396170, "dur":18713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884414919, "dur":1209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884416239, "dur":69582, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884416131, "dur":69692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884485859, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734288884487017, "dur":9852815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883361156, "dur":7363, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883368522, "dur":550, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883369211, "dur":604, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.MemoryMappedFiles.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883370014, "dur":756, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.Compression.Native.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883369072, "dur":1949, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883371021, "dur":944, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883371965, "dur":804, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883372769, "dur":6508, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883379278, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1734288883379527, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1734288883380015, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883380095, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883380163, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883380309, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883380377, "dur":8110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288883388521, "dur":45056, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883388487, "dur":45092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883433627, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883435236, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883436462, "dur":52804, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883436400, "dur":52868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883489338, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883490742, "dur":52188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883490684, "dur":52248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883542976, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883544809, "dur":62203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883544736, "dur":62277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883607045, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883608689, "dur":78499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883608634, "dur":78557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883687269, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883689184, "dur":114377, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883689154, "dur":114410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883803633, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883805446, "dur":10142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883805417, "dur":10187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883815650, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883817079, "dur":56499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883817017, "dur":56563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883873608, "dur":1013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883874656, "dur":55221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883874625, "dur":55254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883929911, "dur":1532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883931473, "dur":62214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883931447, "dur":62242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883993747, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883995974, "dur":26760, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288883995930, "dur":26806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884022767, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884024381, "dur":41095, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884024282, "dur":41196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884065503, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884067243, "dur":11472, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884067072, "dur":11646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884078753, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884080230, "dur":186751, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884080113, "dur":186870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884267023, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884268862, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884270157, "dur":22219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884270154, "dur":22223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884292406, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884293655, "dur":78468, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884293540, "dur":78605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884372239, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884373941, "dur":42548, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884373873, "dur":42617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884417725, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734288884416549, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884418102, "dur":52073, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884417869, "dur":52308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884470214, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734288884471439, "dur":9868381, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883361259, "dur":7540, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883368800, "dur":702, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883369503, "dur":780, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883370284, "dur":700, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883370984, "dur":693, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883371677, "dur":856, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883372534, "dur":6732, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883379268, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1734288883379495, "dur":692, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1734288883380197, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883380311, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883380392, "dur":8047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883388497, "dur":28437, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883388440, "dur":28497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883416984, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883418914, "dur":15161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883418883, "dur":15194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883434098, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883435535, "dur":41719, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883435479, "dur":41777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883477311, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883478600, "dur":66689, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883478551, "dur":66740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883545324, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883547502, "dur":15208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883547461, "dur":15252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883562751, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883563961, "dur":47350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883563902, "dur":47426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883611413, "dur":363, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883613871, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883611785, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883614125, "dur":40948, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883614051, "dur":41024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883655117, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883656553, "dur":16961, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883656491, "dur":17025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883673531, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883674769, "dur":129, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883673615, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883674994, "dur":51376, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883674942, "dur":51430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883726383, "dur":312, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883726714, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883727996, "dur":3011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883731063, "dur":35921, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883731011, "dur":35976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883766998, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288883767069, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883768653, "dur":180563, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883768629, "dur":180589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883949247, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883951280, "dur":12994, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883951241, "dur":13035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883964307, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883965547, "dur":73845, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288883965453, "dur":73941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884039454, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884040933, "dur":141920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884040907, "dur":141949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884182869, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288884184377, "dur":248, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734288884182948, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884184755, "dur":36062, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884184716, "dur":36103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884220851, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884222410, "dur":85689, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884222382, "dur":85719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884308145, "dur":1426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884309672, "dur":65577, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884309576, "dur":65676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884375372, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884376952, "dur":122021, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884376928, "dur":122047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884499012, "dur":2231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/uliya/OneDrive/ // /Tetris_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734288884501247, "dur":9838564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734288894347897, "dur":1928, "ph":"X", "name": "ProfilerWriteOutput" }
+,
