@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAACIEBogAAAAIIACggAEAkABBSQBBQAhAgkA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAQAAAIAAQAAAwEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverUIManager" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAAAAAQgABAAIAAAABQAAEAAAIAAAAAgAgEA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\GameOverUIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQBAAAAAAAIAACggAAAAAAYAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAEAABAAAAAAAAAAAAAAAABAAAACABAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAgAEAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piece" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwwAAAAUIgAYQQAgEwAIgBDEAABAAAAIAAQAAAAgAI=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Piece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SliderController" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAABIAAAAAAAAAAACAGAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\SliderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundEffectForMenu" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\SoundEffectForMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="TetrominoData" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAgQAAAAACAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Tetromino.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Tetromino" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyFAAE=</HashCode>
+      <FileName>Assets\Scripts\Tetris\Tetromino.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

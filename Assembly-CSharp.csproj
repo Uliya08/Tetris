@@ -1,26 +1,21 @@
-﻿<Project ToolsVersion="Current">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <!-- Generated file, do not modify, your changes will be overwritten (use AssetPostprocessor.OnGeneratedCSProject) -->
   <PropertyGroup>
-    <BaseIntermediateOutputPath>Temp\obj\$(Configuration)\$(MSBuildProjectName)</BaseIntermediateOutputPath>
-    <IntermediateOutputPath>$(BaseIntermediateOutputPath)</IntermediateOutputPath>
-  </PropertyGroup>
-  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
-  <ItemGroup>
-    <ProjectCapability Include="Unity" />
-  </ItemGroup>
-  <PropertyGroup>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <EnableDefaultItems>false</EnableDefaultItems>
-    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <LangVersion>9.0</LangVersion>
-    <Configurations>Debug;Release</Configurations>
+  </PropertyGroup>
+  <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
+    <ProjectGuid>{D2BFFF02-D087-DB1A-C7FE-6538A965A290}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -44,37 +39,65 @@
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
-    <NoStandardLibraries>true</NoStandardLibraries>
-    <NoStdLib>true</NoStdLib>
     <NoConfig>true</NoConfig>
-    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
-    <MSBuildWarningsAsMessages>MSB3277</MSBuildWarningsAsMessages>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.22</UnityProjectGeneratorVersion>
-    <UnityProjectGeneratorStyle>SDK</UnityProjectGeneratorStyle>
+    <UnityProjectGeneratorStyle>Legacy</UnityProjectGeneratorStyle>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>6000.0.24f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\uliya\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.5\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\SliderController.cs" />
-    <Compile Include="Assets\Scripts\Ghost.cs" />
-    <Compile Include="Assets\Scripts\MainMenu.cs" />
-    <Compile Include="Assets\Scripts\Tetromino.cs" />
-    <Compile Include="Assets\Scripts\Board.cs" />
-    <Compile Include="Assets\Scripts\Data.cs" />
-    <Compile Include="Assets\Scripts\Piece.cs" />
-    <Compile Include="Assets\Scripts\SoundEffectForMenu.cs" />
-    <Compile Include="Assets\Scripts\PauseMenu.cs" />
-    <Compile Include="Assets\Scripts\GameOverUIManager.cs" />
+    <Compile Include="Assets\Scripts\Tetris\Piece.cs" />
+    <Compile Include="Assets\Scripts\Tetris\Board.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\MyGrid.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\MenuAnimationController.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\ScriptableObjects\SquareTextureData.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\SoundToggle.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Utility\BinaryDataStream.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Shape\ShapeData.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Shape\ShapeStorage.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Shape\ShapeSquare.cs" />
+    <Compile Include="Assets\Scripts\Tetris\Data.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Shape\Shape.cs" />
+    <Compile Include="Assets\Scripts\Tetris\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\Tetris\Tetromino.cs" />
+    <Compile Include="Assets\Scripts\Tetris\PauseMenu.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\GameEvents.cs" />
+    <Compile Include="Assets\Scripts\Tetris\Ghost.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\WritingShape.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\Bonus\Bonus.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\CongratulationWritings.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\LineIndicator.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\Scores.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\Bonus\BonusManager.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\SettingButton.cs" />
+    <Compile Include="Assets\Scripts\Tetris\GameManager.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\GridSquare.cs" />
+    <Compile Include="Assets\Scripts\Tetris\SoundEffectForMenu.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Config.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\MenuButtons.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\ActiveSquareImageSelector.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\BestScoreBar.cs" />
+    <Compile Include="Assets\Scripts\Tetris\GameOverUIManager.cs" />
+    <Compile Include="Assets\Scripts\BlockPuzzle\Game\GameOverPopup.cs" />
+    <Compile Include="Assets\Scripts\Tetris\SliderController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1260,16 +1283,13 @@
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
-  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
-  <ItemGroup>
-    <ProjectCapability Remove="LaunchProfiles" />
-    <ProjectCapability Remove="SharedProjectReferences" />
-    <ProjectCapability Remove="ReferenceManagerSharedProjects" />
-    <ProjectCapability Remove="ProjectReferences" />
-    <ProjectCapability Remove="ReferenceManagerProjects" />
-    <ProjectCapability Remove="COMReferences" />
-    <ProjectCapability Remove="ReferenceManagerCOM" />
-    <ProjectCapability Remove="AssemblyReferences" />
-    <ProjectCapability Remove="ReferenceManagerAssemblies" />
-  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
 </Project>
