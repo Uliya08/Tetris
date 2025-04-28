@@ -10,7 +10,10 @@ public class Piece : MonoBehaviour
     public float lockDelay = 0.5f;                     
     private float stepTime;                             
     private float lockTime;                            
-    private float baseStepDelay = 1f;                   
+    private float baseStepDelay = 1f;
+
+    private bool isGameOver = false;
+    private bool isPaused = false;
     public float Speed { get; set; } = 1f;              
     public AudioSource rotationAudio, hardDropAudio;    
     public float moveSpeed = 1f;                       
@@ -36,8 +39,13 @@ public void Initialize(Board board, Vector3Int position, TetrominoData data)
    private void Update() 
    {
         this.board.Clear(this);                    
-        this.lockTime += Time.deltaTime;           
-            if(Input.GetMouseButtonDown(1)) 
+        this.lockTime += Time.deltaTime;
+            if (isGameOver || isPaused)
+                return;
+
+            this.board.Clear(this);
+            this.lockTime += Time.deltaTime;
+            if (Input.GetMouseButtonDown(1)) 
             {
                 rotationAudio.Play();
                 Rotate(-1);                
@@ -71,6 +79,15 @@ public void Initialize(Board board, Vector3Int position, TetrominoData data)
             }
 
         this.board.Set(this);         
+    }
+    public void SetGameOverState(bool gameOver)
+    {
+        isGameOver = gameOver;
+    }
+
+    public void SetPausedState(bool paused)
+    {
+        isPaused = paused;
     }
     public Piece()
     {

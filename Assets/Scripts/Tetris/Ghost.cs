@@ -14,8 +14,17 @@ public class Ghost : MonoBehaviour
         this.tilemap = GetComponentInChildren<Tilemap>();       
         this.cells = new Vector3Int[4];                         
     }
+    public void ClearGhost()
+    {
+        tilemap.ClearAllTiles();
+    }
     private void LateUpdate() 
     {
+        if (trackingPiece == null || !trackingPiece.gameObject.activeSelf)
+        {
+            ClearGhost();
+            return;
+        }
         Clear();            
         Copy();             
         Drop();            

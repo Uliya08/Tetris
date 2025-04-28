@@ -16,8 +16,9 @@ public class Board : MonoBehaviour
     public Text LevelText = null;  
     private const int linesToLevelUp = 10;   
     public GameOverUIManager gameOverUIManager;  
-    private bool isGameOver = false;  
-        public int Level                                       
+    private bool isGameOver = false;
+    private const string TETRIS_RECORD_FILE = "tetris_best_score";
+    public int Level                                       
     {
         get { return level; }
         set
@@ -48,45 +49,113 @@ public class Board : MonoBehaviour
           {
                this.tetrominoes[i].Initialize();
           }
-     }
+          LoadBestScore();
+    }
+    private void LoadBestScore()
+    {
+        if (BinaryDataStream.Exist(TETRIS_RECORD_FILE))
+        {
+            int bestScore = BinaryDataStream.Read<int>(TETRIS_RECORD_FILE);
+            GameEvents.CallUpdateTetrisBestScore(0, bestScore);
+        }
+    }
+
+    private void SaveBestScore()
+    {
+        BinaryDataStream.Save(score, TETRIS_RECORD_FILE);
+        GameEvents.CallUpdateTetrisBestScore(score, score);
+    }
+
     private void Start() 
      {
           SpawnPiece();
           currentPiece = activePiece;
           audioSource = gameObject.AddComponent<AudioSource>();
      }
-    public void SpawnPiece() 
+    public void SpawnPiece()
     {
-          int random = Random.Range(0, this.tetrominoes.Length);
-          TetrominoData data = this.tetrominoes[random];
+        int random = Random.Range(0, this.tetrominoes.Length);
+        TetrominoData data = this.tetrominoes[random];
 
-          this.activePiece.Initialize(this, this.spawnPosition, data);         
-
-          if(IsValidPosition(this.activePiece, this.spawnPosition)){
-               Set(this.activePiece); 
-          } else {
-               GameOver();
-          }
-    }
-     private void GameOver()
-     {
-        if (!isGameOver) 
+        // Проверяем валидность позиции перед инициализацией
+        if (!IsValidSpawnPosition(this.spawnPosition))
         {
-                isGameOver = true; 
-                Time.timeScale = 0; 
-                gameOverUIManager.ShowGameOverUI(score, level);
-                gameOverAudio.Play();
+            GameOver();
+            return; // Не создаем новую фигуру при GameOver
         }
-     }
+
+        this.activePiece.Initialize(this, this.spawnPosition, data);
+    }
+    private bool IsValidSpawnPosition(Vector3Int spawnPos)
+    {
+        // Временно создаем фигуру для проверки
+        GameObject tempPiece = new GameObject("TempPiece");
+        Piece testPiece = tempPiece.AddComponent<Piece>();
+        testPiece.Initialize(this, spawnPos, this.tetrominoes[0]); // Используем любую фигуру для теста
+
+        bool isValid = IsValidPosition(testPiece, spawnPos);
+        Destroy(tempPiece);
+        return isValid;
+    }
+
+    private void GameOver()
+     {
+        if (!isGameOver)
+        {
+            isGameOver = true;
+
+            // 1. Деактивируем текущую фигуру
+            if (activePiece != null)
+            {
+                activePiece.enabled = false;
+                activePiece.gameObject.SetActive(false);
+            }
+
+            // 2. Очищаем призрачную фигуру
+            Ghost ghost = GetComponentInChildren<Ghost>();
+            if (ghost != null)
+            {
+                ghost.ClearGhost();
+                ghost.enabled = false;
+            }
+
+            // 3. Останавливаем игру
+            Time.timeScale = 0;
+            gameOverUIManager.ShowGameOverUI(score, level);
+            gameOverAudio.Play();
+        }
+    }
+    public void PauseGame(bool pause)
+    {
+        Time.timeScale = pause ? 0 : 1;
+        activePiece?.SetPausedState(pause); 
+    }
     public void RestartGame()
     {
-        isGameOver = false; 
-        Time.timeScale = 1; 
-        score = 0; 
-        level = 1; 
-        this.tilemap.ClearAllTiles(); 
-        SpawnPiece(); 
-    }
+        // 1. Сбрасываем состояние
+        isGameOver = false;
+        Time.timeScale = 1;
+        score = 0;
+        level = 1;
+        linesCleared = 0;
+
+        // 2. Очищаем доску
+        tilemap.ClearAllTiles();
+
+        // 3. Активируем призрачную фигуру
+        Ghost ghost = GetComponentInChildren<Ghost>();
+        if (ghost != null)
+        {
+            ghost.enabled = true;
+        }
+
+        // 4. Создаем новую фигуру
+        SpawnPiece();
+
+        // 5. Обновляем UI
+        LinesClearedText.text = "Score: 0";
+        LevelText.text = "Level: 1";
+}
     public void Set(Piece piece)
     {
         
@@ -195,13 +264,34 @@ public class Board : MonoBehaviour
      }
      private void UpdateScore(int linesCleared)
      {
-          if(linesCleared > 0){
-               score += linesCleared;         
-          }
- 
-          if(LinesClearedText != null){
+        if (linesCleared > 0)
+        {
+            score += linesCleared;
+
+            LinesClearedText.text = "Score: " + score;
+
+            if (BinaryDataStream.Exist(TETRIS_RECORD_FILE))
+            {
+                int bestScore = BinaryDataStream.Read<int>(TETRIS_RECORD_FILE);
+                if (score > bestScore)
+                {
+                    BinaryDataStream.Save(score, TETRIS_RECORD_FILE);
+                    GameEvents.CallUpdateTetrisBestScore(score, score);
+                }
+                else
+                {
+                    GameEvents.CallUpdateTetrisBestScore(score, bestScore);
+                }
+            }
+            else
+            {
+                BinaryDataStream.Save(score, TETRIS_RECORD_FILE);
+                GameEvents.CallUpdateTetrisBestScore(score, score);
+            }
+        }
+        /*if (LinesClearedText != null){
                LinesClearedText.text = "Score: " + score.ToString();    
-          }
+        }*/
           
      }
      private void UpdateLevel(int linesCleared)

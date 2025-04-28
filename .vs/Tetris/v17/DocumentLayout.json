@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|c:\\users\\uliya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\tetris\\assets\\scripts\\tetris\\tetrisbestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\tetrisbestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|c:\\users\\uliya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\tetris\\assets\\scripts\\blockpuzzle\\game\\bestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\bestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\game\\gameoverpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\gameoverpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\tetrisrecorddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\tetrisrecorddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\utility\\binarydatastream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\utility\\binarydatastream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\game\\mygrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,15 +79,11 @@
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|c:\\users\\uliya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\tetris\\assets\\scripts\\blockpuzzle\\settingbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\settingbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\settingbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\menubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\menubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\congratulationwritings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\game\\bestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\bestscorebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\game\\activesquareimageselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\activesquareimageselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,28 +135,8 @@
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\game\\bonus\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,14 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\blockpuzzle\\utility\\binarydatastream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockpuzzle\\utility\\binarydatastream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\assets\\scripts\\tetris\\soundeffectformenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,24 +158,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameEvents.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Board.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Board.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAgwJUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:36:13.669Z",
+              "WhenOpened": "2025-04-21T13:07:12.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TetrisBestScoreBar.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\TetrisBestScoreBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\TetrisBestScoreBar.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\TetrisBestScoreBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\TetrisBestScoreBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:50:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BestScoreBar.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:05:42.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Piece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Piece.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Piece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Piece.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:51:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GameOverPopup.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\GameOverPopup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\GameOverPopup.cs",
@@ -176,59 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Scores.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAuwGQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T18:12:47.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyGrid.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:15:26.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SettingButton.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:28:08.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GameOverUIManager.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:51:16.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Config.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Config.cs",
@@ -236,24 +235,75 @@
               "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Config.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T16:15:07.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShapeStorage.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACEAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:37:30.659Z",
+              "WhenOpened": "2025-04-10T16:15:07.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\GameEvents.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:36:13.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\PauseMenu.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:51:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Ghost.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Ghost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Ghost.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:51:21.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Scores.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\Scores.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwGQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:12:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyGrid.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\MyGrid.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:15:26.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ShapeData.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeData.cs",
@@ -261,12 +311,106 @@
               "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:38:33.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:38:33.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Assets\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\ClassDiagram1.cd",
+              "RelativeToolTip": "Assets\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-30T18:10:35.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Data.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:51:06.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TetrisRecordData.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\TetrisRecordData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\TetrisRecordData.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\TetrisRecordData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\TetrisRecordData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:44:26.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShapeStorage.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeStorage.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:37:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BinaryDataStream.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:30:20.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameOverUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\GameOverUIManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:51:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SettingButton.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\SettingButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:28:08.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tetromino.cs",
+              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Tetromino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Tetromino.cs",
+              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Tetromino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Tetromino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:48:25.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ShapeSquare.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeSquare.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeSquare.cs",
@@ -274,12 +418,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Shape\\ShapeSquare.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:22:02.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T16:22:02.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "MenuAnimationController.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\MenuAnimationController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\MenuAnimationController.cs",
@@ -291,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "MenuButtons.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\MenuButtons.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\MenuButtons.cs",
@@ -303,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "SoundToggle.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\SoundToggle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\SoundToggle.cs",
@@ -315,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Shape\\Shape.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Shape\\Shape.cs",
@@ -327,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "SquareTextureData.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\ScriptableObjects\\SquareTextureData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\ScriptableObjects\\SquareTextureData.cs",
@@ -339,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "WritingShape.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\WritingShape.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\WritingShape.cs",
@@ -351,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "LineIndicator.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\LineIndicator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\LineIndicator.cs",
@@ -363,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "GridSquare.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\GridSquare.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\GridSquare.cs",
@@ -375,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "CongratulationWritings.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\CongratulationWritings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\CongratulationWritings.cs",
@@ -387,19 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BestScoreBar.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Game\\BestScoreBar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T15:05:42.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "ActiveSquareImageSelector.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\ActiveSquareImageSelector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\ActiveSquareImageSelector.cs",
@@ -411,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "BonusManager.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Bonus\\BonusManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\Bonus\\BonusManager.cs",
@@ -423,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "Bonus.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Game\\Bonus\\Bonus.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Game\\Bonus\\Bonus.cs",
@@ -435,31 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Data.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Data.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Data.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:51:06.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Ghost.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Ghost.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Ghost.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Ghost.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Ghost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:51:21.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\MainMenu.cs",
@@ -471,42 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PauseMenu.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\PauseMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\PauseMenu.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\PauseMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\PauseMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:51:39.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "Assets\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\ClassDiagram1.cd",
-              "RelativeToolTip": "Assets\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-03-30T18:10:35.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Piece.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Piece.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Piece.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Piece.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:51:43.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\SliderController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\SliderController.cs",
@@ -518,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\GameManager.cs",
@@ -530,31 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Board.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\Board.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\Board.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tetris\\Board.cs",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAqwAoAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:50:31.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BinaryDataStream.cs",
-              "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
-              "ToolTip": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockPuzzle\\Utility\\BinaryDataStream.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:30:20.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SoundEffectForMenu.cs",
               "DocumentMoniker": "C:\\Users\\uliya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0435\u0442\u0440\u0438\u0441 \u0433\u0438\u0442\u0445\u0430\u0431\\Tetris\\Assets\\Scripts\\Tetris\\SoundEffectForMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tetris\\SoundEffectForMenu.cs",

@@ -79,7 +79,9 @@
     <Compile Include="Assets\Scripts\BlockPuzzle\GameEvents.cs" />
     <Compile Include="Assets\Scripts\Tetris\Ghost.cs" />
     <Compile Include="Assets\Scripts\BlockPuzzle\Game\WritingShape.cs" />
+    <Compile Include="Assets\Scripts\Tetris\TetrisRecordData.cs" />
     <Compile Include="Assets\Scripts\BlockPuzzle\Game\Bonus\Bonus.cs" />
+    <Compile Include="Assets\Scripts\Tetris\TetrisBestScoreBar.cs" />
     <Compile Include="Assets\Scripts\BlockPuzzle\Game\CongratulationWritings.cs" />
     <Compile Include="Assets\Scripts\BlockPuzzle\Game\LineIndicator.cs" />
     <Compile Include="Assets\Scripts\BlockPuzzle\Game\Scores.cs" />

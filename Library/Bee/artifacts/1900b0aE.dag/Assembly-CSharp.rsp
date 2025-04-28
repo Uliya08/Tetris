@@ -460,6 +460,8 @@
 "Assets/Scripts/Tetris/Piece.cs"
 "Assets/Scripts/Tetris/SliderController.cs"
 "Assets/Scripts/Tetris/SoundEffectForMenu.cs"
+"Assets/Scripts/Tetris/TetrisBestScoreBar.cs"
+"Assets/Scripts/Tetris/TetrisRecordData.cs"
 "Assets/Scripts/Tetris/Tetromino.cs"
 -langversion:9.0
 /deterministic
